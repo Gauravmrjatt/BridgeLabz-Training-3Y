@@ -1,0 +1,3 @@
+ancestorEntries = []
+ourEntries = ["Java-Core/.DS_Store"]
+theirEntries = ["Java-Core/.DS_Store"]
